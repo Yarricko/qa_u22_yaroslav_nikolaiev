@@ -5,3 +5,4 @@
 5. Length for new not less 8 characters
 6. Check grammatical mistakes
 7. Password symbols not less 8 characters
+
